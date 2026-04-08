@@ -3,7 +3,8 @@
 
 **KETI** (Korea Electronics Technology Institute) 
 
-**Researcher · Generative AI · Human–AI Interaction (HCI)** 
+**Researcher @ KETI** (Korea Electronics Technology Institute) <br>
+Interested in Generative AI · Human–AI Interaction (HCI) 
 
 ---
 
@@ -21,13 +22,13 @@
 
 #### Stack & tools
 
-`Python` · `R` · `SQL` · *(add: e.g. SQL, Pandas, Git — whatever you actually use)*
+`Python` · `R` · `SQL`
 
 ---
 
 #### Currently
 
-- Organizing Git Page
+- Re-organizing Git Page
 
 ---
 
