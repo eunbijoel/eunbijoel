@@ -1,8 +1,6 @@
 
 ### Hi, I'm Eunbi — @eunbijoel
 
-**KETI** (Korea Electronics Technology Institute) 
-
 **Researcher @ KETI** (Korea Electronics Technology Institute) <br>
 Interested in Generative AI · Human–AI Interaction (HCI) 
 
