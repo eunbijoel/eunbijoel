@@ -10,7 +10,7 @@
 | --- | --- |
 | [**book_agent**](https://github.com/eunbijoel/book_agent) | Book writing AI agent — assists with drafting, structuring, and iterating on book-length tex|
 | [**SQL--Python**](https://github.com/eunbijoel/SQL--Python) | SQL → Python conversion with LLM + prompt engineering; emphasis on executable output (FEWSHOT) |
-| [**HWP_analyst**](https://github.com/eunbijoel/HWP_analyst)) | Enterprise-internal document analyst |
+| [**HWP_analyst**](https://github.com/eunbijoel/HWP_analyst) | Enterprise-internal document analyst |
 | [**kmx**](https://github.com/eunbijoel/kmx) | Korean industry–focused Catena-X |
 ---
 
