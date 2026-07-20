@@ -23,6 +23,7 @@
 #### 📚 Archive
 | Repo | Note |
 | --- | --- |
+|[**AI PhotoBooth**](https://github.com/eunbijoel/AI_PhotoBooth)| 4cut style photo booth|
 | [**coursework**](https://github.com/eunbijoel/coursework) | Undergrad & Grad coursework and RA data archive (grad/RA_data, algorithms, etc.)
 ---
 #### 🚀 Currently 
