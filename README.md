@@ -1,7 +1,7 @@
 
 ### Hi, I'm Eunbi — @eunbijoel 
 
-##### Background in GenAI agents and human interaction (HCI / HAI).
+##### Interested in GenAI agents and human interaction (HCI / HAI).
 ##### I’m now focused on building agent-driven systems and data pipelines for industrial applications.
 ---
 
