@@ -26,7 +26,7 @@
 | [**book_agent**](https://github.com/eunbijoel/book_agent) | Multi-agent book writing system (LangGraph) |
 | [**SQL--Python**](https://github.com/eunbijoel/SQL--Python) | SQL → Python few-shot conversion benchmark |
 | [**HWP_analyst**](https://github.com/eunbijoel/HWP_analyst) | Enterprise-internal HWP/Excel document analyst |
-| [**kmx**](https://github.com/eunbijoel/kmx) | Korean industry–focused Catena-X / Manufacturing-X |
+| [**kmx-personal**](https://github.com/eunbijoel/kmx-personal) | Korean industry–focused Catena-X / Manufacturing-X (independent workspace) |
 | [**coursework**](https://github.com/eunbijoel/coursework) | Undergrad & Grad coursework and RA data archive |
 ---
 #### 🚀 Currently 
